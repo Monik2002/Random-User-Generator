@@ -4,7 +4,7 @@ The Random User Generator is a mini project developed using JavaScript. It utili
 
 ## Demo
 
-Check out the live demo of the Random User Generator: [Random User Generator Demo](random-user-generator2.netlify.app)
+Check out the live demo of the Random User Generator: [Random User Generator Demo](https://random-user-generator2.netlify.app/)
 
 ## Features
 
@@ -15,7 +15,7 @@ Check out the live demo of the Random User Generator: [Random User Generator Dem
 
 ## Usage
 
-1. Visit the Random User Generator demo page: [Random User Generator Demo](random-user-generator2.netlify.app)
+1. Visit the Random User Generator demo page: [Random User Generator Demo](https://random-user-generator2.netlify.app/)
 
 2. On page load, the Random User Generator will automatically fetch and display random user details.
 
